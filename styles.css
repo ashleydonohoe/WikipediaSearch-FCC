@@ -30,6 +30,16 @@ a:hover {
     color: #337ab7;
 }
 
+h3 {
+    color: aliceblue;
+}
+
 #results {
-    background: slateblue;
+    background-color: aliceblue;
+    color: slateblue;
+    margin-top: 5%;
+}
+
+#results-block h3 {
+    color: slateblue;
 }
